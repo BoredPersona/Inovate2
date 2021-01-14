@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="idea_type" table="x_558697_inovate2_innovate" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>idea_type</element>
+            <name>x_558697_inovate2_innovate</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 08:55:16</sys_created_on>
+            <sys_id>ef0ce208070120107ba3f19d7c1ed05f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>idea_type</sys_name>
+            <sys_package display_value="Inovate2" source="x_558697_inovate2">8c5a62c4070120107ba3f19d7c1ed096</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Inovate2">8c5a62c4070120107ba3f19d7c1ed096</sys_scope>
+            <sys_update_name>sys_choice_x_558697_inovate2_innovate_idea_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 08:55:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cost Savings</label>
+            <language>en</language>
+            <name>x_558697_inovate2_innovate</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 08:55:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>630ce208070120107ba3f19d7c1ed05f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 08:55:16</sys_updated_on>
+            <value>cost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Improvment</label>
+            <language>en</language>
+            <name>x_558697_inovate2_innovate</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 08:55:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb0ce208070120107ba3f19d7c1ed065</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 08:55:17</sys_updated_on>
+            <value>process</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Team Building</label>
+            <language>en</language>
+            <name>x_558697_inovate2_innovate</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-08 08:55:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>270ce208070120107ba3f19d7c1ed063</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-08 08:55:16</sys_updated_on>
+            <value>team</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
